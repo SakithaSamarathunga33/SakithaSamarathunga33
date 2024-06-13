@@ -3,7 +3,7 @@
       <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width=180px> 
     </div>
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
-<h3 align="center">A Undergraduate from Sri Lanaka </h3>
+<h3 align="center"></h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/" target="_blank">
