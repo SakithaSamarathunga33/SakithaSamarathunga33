@@ -9,6 +9,12 @@
  <a href="https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
+  <a href="https://instagram.com/__sakitha" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.facebook.com/sakitha.udarashmika.7?mibextid=ZbWKwL" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sakithasamarathunga33&label=Profile%20views&color=0e75b6&style=flat" alt="sakithasamarathunga33" /> </p>
 <p>
