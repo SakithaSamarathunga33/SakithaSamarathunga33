@@ -22,7 +22,7 @@
 
 # About me
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right"  width="350" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a><br>
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
