@@ -3,17 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakithasamarathunga33&label=Profile%20views&color=0e75b6&style=flat" alt="sakithasamarathunga33" /> </p>
 
-- 🔭 I’m currently working on **test**
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
-- 🌱 I’m currently learning **test**
+</p>
 
-- 👯 I’m looking to collaborate on **test**
-
-- 🤝 I’m looking for help with **test**
-
-- 💬 Ask me about **test**
-
-- 📫 How to reach me **sakithaudarashmika63@gmail.com**
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
