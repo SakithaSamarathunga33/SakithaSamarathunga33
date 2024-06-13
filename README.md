@@ -4,6 +4,12 @@
     </div>
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
 <h3 align="center">A Undergraduate from Sri Lanaka </h3>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sakithasamarathunga33&label=Profile%20views&color=0e75b6&style=flat" alt="sakithasamarathunga33" /> </p>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
