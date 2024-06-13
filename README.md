@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sakitha Samarathunga</h1>
+<div>
+    <div align=center>
+      <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width=180px> 
+    </div>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
 <h3 align="center">A Undergraduate from Sri Lanaka </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sakithasamarathunga33&label=Profile%20views&color=0e75b6&style=flat" alt="sakithasamarathunga33" /> </p>
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 # About me
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sakithaudarashmika63@gmail.com<br/><br/>
