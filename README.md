@@ -3,10 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakithasamarathunga33&label=Profile%20views&color=0e75b6&style=flat" alt="sakithasamarathunga33" /> </p>
 
+- 🔭 I’m currently working on **test**
+
+- 🌱 I’m currently learning **test**
+
+- 👯 I’m looking to collaborate on **test**
+
+- 🤝 I’m looking for help with **test**
+
+- 💬 Ask me about **test**
+
 - 📫 How to reach me **sakithaudarashmika63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sakitha samarathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakitha samarathunga" height="30" width="40" /></a>
 <a href="https://fb.com/sakitha samarathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakitha samarathunga" height="30" width="40" /></a>
 <a href="https://instagram.com/__sakitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sakitha" height="30" width="40" /></a>
 <a href="https://discord.gg/viver2872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="viver2872" height="30" width="40" /></a>
