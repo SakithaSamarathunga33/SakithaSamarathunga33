@@ -1,7 +1,6 @@
 <div>
     <div align=center>
-      <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width=180px> 
-    </div>
+     
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
 <h3 align="center"></h3>
 
