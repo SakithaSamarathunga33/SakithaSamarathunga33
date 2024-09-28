@@ -26,7 +26,7 @@
 </a><br><br>
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; I love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sakithaudarashmika63@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything 
 
