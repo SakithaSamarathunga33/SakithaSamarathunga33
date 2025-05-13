@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | MERN Specialist | Next.js & Spring Boot Expert</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/" target="_blank">
@@ -62,6 +62,7 @@ An innovative pet care management system featuring AI-powered predictions for ap
   <img src="https://img.shields.io/badge/Facebook_Prophet-0467DF?style=flat-square&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
+
 #### 🔗 [Live Demo](https://the-pet.vercel.app/)
 
 ### 🎓 Learning Platform
@@ -83,6 +84,7 @@ A modern, responsive portfolio website built with Next.js, Shadcn UI, and animat
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
+
 #### 🔗 [Live Demo](https://portfolio-delta-smoky-72.vercel.app/)
 
 ## 💻 Tech Stack
@@ -140,24 +142,34 @@ A modern, responsive portfolio website built with Next.js, Shadcn UI, and animat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SakithaSamarathunga33&theme=dark&hide_border=false" />
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakithaSamarathunga33&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakithaSamarathunga33&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img src="https://github-profile-trophy.vercel.app/?username=SakithaSamarathunga33&theme=discord&no-frame=true&column=7&row=1&margin-w=15" />
+  </a>
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakithaSamarathunga33&theme=dark&hide_border=true&area=true" />
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakithaSamarathunga33&theme=react-dark&hide_border=true&area=true&radius=5&point=0077B8&line=0077B8" width="98%" />
+  </a>
 </div>
 
 ---
