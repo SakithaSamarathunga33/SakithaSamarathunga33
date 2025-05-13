@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakitha Samarathunga</h1>
-<h3 align="center">Full Stack Developer | MERN Specialist | Next.js & Spring Boot Expert</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/" target="_blank">
@@ -43,15 +43,7 @@
 
 ## 🏆 Featured Projects
 
-### 💎 CRYSTAL-ELEGANCE (Jewelry Management System)
-A comprehensive MERN stack application for jewelry inventory and sales management with a stunning customer-facing storefront and powerful admin dashboard.
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=materialui&logoColor=white" />
-</p>
+
 
 ### 🐾 THE-PET (Pet Care Management System)
 An innovative pet care management system featuring AI-powered predictions for appointment trends using Facebook Prophet, connecting pet owners with pet shops and services.
@@ -86,6 +78,16 @@ A modern, responsive portfolio website built with Next.js, Shadcn UI, and animat
 </p>
 
 #### 🔗 [Live Demo](https://portfolio-delta-smoky-72.vercel.app/)
+
+### 💎 CRYSTAL-ELEGANCE (Jewelry Management System)
+A comprehensive MERN stack application for jewelry inventory and sales management with a stunning customer-facing storefront and powerful admin dashboard.
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=materialui&logoColor=white" />
+</p>
 
 ## 💻 Tech Stack
 
