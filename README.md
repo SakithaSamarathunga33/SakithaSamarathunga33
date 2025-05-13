@@ -62,6 +62,7 @@ An innovative pet care management system featuring AI-powered predictions for ap
   <img src="https://img.shields.io/badge/Facebook_Prophet-0467DF?style=flat-square&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
+#### 🔗 [Live Demo](https://the-pet.vercel.app/)
 
 ### 🎓 Learning Platform
 A comprehensive educational platform with Spring Boot backend and Next.js frontend, featuring AI-powered assistant integration and real-time messaging system.
@@ -82,6 +83,7 @@ A modern, responsive portfolio website built with Next.js, Shadcn UI, and animat
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
+#### 🔗 [Live Demo](https://portfolio-delta-smoky-72.vercel.app/)
 
 ## 💻 Tech Stack
 
