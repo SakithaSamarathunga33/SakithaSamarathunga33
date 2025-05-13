@@ -181,7 +181,3 @@ A comprehensive MERN stack application for jewelry inventory and sales managemen
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Let's%20build%20something%20amazing%20together!&height=100&section=footer"/>
-</div>
