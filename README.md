@@ -26,9 +26,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350" alt="Coding gif" />
-</div>
+
 
 ## 🚀 About Me
 
