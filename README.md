@@ -51,6 +51,32 @@ const sakitha = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>FrameVoice &nbsp;<sup><b>New</b></sup></h3>
+      <img src="https://img.shields.io/badge/AI_Video-1D5D82?style=flat-square&logo=vercel&logoColor=white" />
+      <p>Turn scripts into videos — <b>neural TTS via edge-tts</b>, word-by-word subtitle highlighting, drag-and-drop scene editor, Cloudinary image libraries, and browser-side MP4 export via WebCodecs API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VPS Dashboard &nbsp;<sup><b>New</b></sup></h3>
+      <img src="https://img.shields.io/badge/Self_Hosted-1D5D82?style=flat-square&logo=docker&logoColor=white" />
+      <p>Self-hosted real-time <b>VPS monitoring dashboard</b> — Docker container management, CPU/RAM/disk stats, per-container uptime history, start/stop actions, all proxied securely through Next.js API routes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>THE-PET</h3>
       <a href="https://the-pet.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-1D5D82?style=flat-square&logo=vercel&logoColor=white" />
@@ -147,32 +173,6 @@ const sakitha = {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>FrameVoice &nbsp;<sup><b>New</b></sup></h3>
-      <img src="https://img.shields.io/badge/AI_Video-1D5D82?style=flat-square&logo=vercel&logoColor=white" />
-      <p>Turn scripts into videos — <b>neural TTS via edge-tts</b>, word-by-word subtitle highlighting, drag-and-drop scene editor, Cloudinary image libraries, and browser-side MP4 export via WebCodecs API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>VPS Dashboard &nbsp;<sup><b>New</b></sup></h3>
-      <img src="https://img.shields.io/badge/Self_Hosted-1D5D82?style=flat-square&logo=docker&logoColor=white" />
-      <p>Self-hosted real-time <b>VPS monitoring dashboard</b> — Docker container management, CPU/RAM/disk stats, per-container uptime history, start/stop actions, all proxied securely through Next.js API routes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -195,6 +195,7 @@ const sakitha = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white)
