@@ -15,7 +15,7 @@
 
 I build end-to-end web and mobile products — **MERN, Next.js, Spring Boot and Flutter** — and wire in AI/ML where it earns its place. 4th-year IT undergraduate, shipping in public.
 
-[![Email](https://img.shields.io/badge/Email%20me-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakithaudarashmika63@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20me-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-17171C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakithaSamarathunga33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/)
 [![Portfolio](https://img.shields.io/badge/sakitha.tech-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
@@ -48,7 +48,7 @@ const sakitha = {
 - **Full-stack** — end-to-end web and mobile solutions across MERN, Next.js, Spring Boot and Flutter
 - **AI / ML** — Facebook Prophet, scikit-learn and OpenRouter for forecasting, risk scoring and assistants
 - **Data-driven** — analytics dashboards and visualization with Chart.js, fl_chart and friends
-- Reach me at **sakithaudarashmika63@gmail.com**
+- Reach me at **sakitha0303@gmail.com**
 
 ---
 
@@ -199,7 +199,7 @@ const sakitha = {
 
 **Open to collaborating on interesting projects — especially those combining full-stack development with AI/ML.**
 
-[![Email](https://img.shields.io/badge/Send_an_Email-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakithaudarashmika63@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
 
