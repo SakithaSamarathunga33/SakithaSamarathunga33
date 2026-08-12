@@ -183,8 +183,8 @@ const sakitha = {
 
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=FF7759&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=17171C&sideLabels=201E1D&dates=616161&currStreakNum=201E1D&sideNums=201E1D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=FF7759&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+  <img src="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=17171C&sideLabels=201E1D&dates=616161&currStreakNum=201E1D&sideNums=201E1D" />
 </picture>
 
 <!-- Contribution graph -->
