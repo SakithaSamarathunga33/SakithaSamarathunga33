@@ -173,12 +173,12 @@ const sakitha = {
 
 <!-- Stats + top languages — light and dark variants swap automatically -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=FF7759&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=17171C&text_color=616161" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=FF7759&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=17171C&text_color=616161" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=616161" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=616161" />
 </picture>
 
 <!-- Streak -->
