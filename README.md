@@ -9,15 +9,21 @@
 
 # Sakitha Samarathunga
 
-`FULL-STACK DEVELOPER · SLIIT · SRI LANKA`
+`ASSOCIATE SOFTWARE ENGINEER · SLIIT · SRI LANKA`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=FF7759&vCenter=true&width=620&lines=Building+AI-powered+full-stack+applications;End-to-end+web+and+mobile+products;MERN+%7C+Next.js+%7C+Spring+Boot+%7C+Flutter;4th-Year+IT+Undergraduate+%40+SLIIT)](https://git.io/typing-svg)
 
-I build end-to-end web and mobile products — **MERN, Next.js, Spring Boot and Flutter** — and wire in AI/ML where it earns its place. 4th-year IT undergraduate, shipping in public.
+I'm Sakitha Samarathunga, an Associate Software Engineer based in Gampaha, Sri Lanka, focused on full-stack development, artificial intelligence, cloud technologies, and scalable system architecture.
+
+I build business systems and websites end to end — data models, APIs, and interfaces — and I obsess over making them feel fast and considered.
+
+I also own the DevOps side: CI/CD pipelines, Docker, and self-hosted Linux servers behind reverse proxies, taking products from first commit to production.
+
+My goal is to create innovative software products that solve real-world challenges and deliver meaningful user experiences. I learn fast, ship often, and care about the details. Portfolio: https://sakitha.tech
 
 [![Email](https://img.shields.io/badge/Email%20me-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-17171C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakithaSamarathunga33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakithasamarathunga/)
 [![Portfolio](https://img.shields.io/badge/sakitha.tech-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-17171C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__sakitha)
 
@@ -33,11 +39,11 @@ I build end-to-end web and mobile products — **MERN, Next.js, Spring Boot and 
 
 ## 01 · About
 
-> Full-Stack Developer building end-to-end products — and wiring in AI/ML where it earns its place. **Clean code. Real problems. Elegant solutions.**
+> **Clean code. Real problems. Elegant solutions.**
 
 ```typescript
 const sakitha = {
-  role:      "Full Stack Developer",
+  role:      "Associate Software Engineer",
   location:  "Sri Lanka",
   education: "SLIIT — 4th-Year IT Undergraduate",
   focus:     ["MERN", "Next.js", "AI/ML Integration", "Flutter"],
