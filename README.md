@@ -194,10 +194,7 @@ const sakitha = {
 </picture>
 
 <!-- Contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SakithaSamarathunga33&hide_border=true&area=true&radius=6&bg_color=00000000&color=E6EDF3&line=FF7759&point=FF7759&title_color=FF7759" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakithaSamarathunga33&hide_border=true&area=true&radius=6&bg_color=00000000&color=17171C&line=FF7759&point=17171C&title_color=17171C" />
-</picture>
+<img width="98%" alt="Contribution graph" src="https://ghchart.rshah.org/ff7a59/SakithaSamarathunga33" />
 
 ---
 
