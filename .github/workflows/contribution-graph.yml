@@ -33,7 +33,7 @@ jobs:
             let prevM = -1, lastLabel = -9;
             cal.weeks.forEach((w, i) => {
               const m = new Date(w.contributionDays[0].date + 'T00:00:00Z').getUTCMonth();
-              if (m !== prevM) { if (i - lastLabel >= 3 && i < cal.weeks.length - 2) { s += `<text x="${left + i * step}" y="${top - 8}">${M[m]}</text>`; lastLabel = i; } prevM = m; }
+              if (m !== prevM) { if (i - lastLabel >= 3 && i < cal.weeks.length - 1) { s += `<text x="${left + i * step}" y="${top - 8}">${M[m]}</text>`; lastLabel = i; } prevM = m; }
               for (const d of w.contributionDays) s += `<rect x="${left + i * step}" y="${top + d.weekday * step}" width="${cell}" height="${cell}" rx="2" fill="${colors[d.contributionLevel]}"><title>${d.contributionCount} on ${d.date}</title></rect>`;
             });
             [['Mon',1],['Wed',3],['Fri',5]].forEach(([t, d]) => s += `<text x="${pad - 4}" y="${top + d * step + cell - 2}">${t}</text>`);
