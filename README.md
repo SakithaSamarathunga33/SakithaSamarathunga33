@@ -11,7 +11,7 @@
 
 `ASSOCIATE SOFTWARE ENGINEER · SLIIT · SRI LANKA`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=FF7759&vCenter=true&width=620&lines=Building+AI-powered+full-stack+applications;End-to-end+web+and+mobile+products;MERN+%7C+Next.js+%7C+Spring+Boot+%7C+Flutter;4th-Year+IT+Undergraduate+%40+SLIIT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=39D353&vCenter=true&width=620&lines=Building+AI-powered+full-stack+applications;End-to-end+web+and+mobile+products;MERN+%7C+Next.js+%7C+Spring+Boot+%7C+Flutter;4th-Year+IT+Undergraduate+%40+SLIIT)](https://git.io/typing-svg)
 
 I'm Sakitha Samarathunga, an Associate Software Engineer based in Gampaha, Sri Lanka, focused on full-stack development, artificial intelligence, cloud technologies, and scalable system architecture.
 
@@ -21,7 +21,7 @@ I also own the DevOps side: CI/CD pipelines, Docker, and self-hosted Linux serve
 
 My goal is to create innovative software products that solve real-world challenges and deliver meaningful user experiences. I learn fast, ship often, and care about the details. Portfolio: https://sakitha.tech
 
-[![Email](https://img.shields.io/badge/Email%20me-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20me-39D353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-17171C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakithaSamarathunga33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakithasamarathunga/)
 [![Portfolio](https://img.shields.io/badge/sakitha.tech-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
@@ -29,11 +29,11 @@ My goal is to create innovative software products that solve real-world challeng
 
 `● OPEN TO WORK & COLLABORATION`
 
-![Profile Views](https://komarev.com/ghpvc/?username=SakithaSamarathunga33&label=Profile+Views&color=FF7759&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SakithaSamarathunga33&label=Profile+Views&color=39D353&style=flat-square)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/SakithaSamarathunga33?label=Followers&style=flat-square&color=17171C)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/SakithaSamarathunga33?label=Stars&style=flat-square&color=FF7759)
+![Stars](https://img.shields.io/github/stars/SakithaSamarathunga33?label=Stars&style=flat-square&color=39D353)
 
 ---
 
@@ -58,69 +58,7 @@ const sakitha = {
 
 ---
 
-## 02 · Featured work &nbsp; <sub>05 selected</sub>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>FrameVoice &nbsp;<sup><code>NEW</code></sup></h3>
-      <p>Turn scripts into finished videos — <b>neural TTS</b>, word-by-word subtitle highlighting, a drag-and-drop scene editor and browser-side MP4 export via WebCodecs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-17171C?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>PulseNode &nbsp;<sup><code>NEW</code></sup></h3>
-      <p>Self-hosted, real-time <b>VPS monitoring</b> — Docker container management, live CPU / RAM / disk stats and per-container uptime, proxied securely through Next.js API routes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-17171C?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>THE-PET &nbsp;<sup><a href="https://the-pet.vercel.app/"><code>LIVE ↗</code></a></sup></h3>
-      <p>AI-powered pet-care platform using <b>Facebook Prophet</b> to forecast appointment demand, segmented per branch and pet type.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-17171C?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prophet-FF7759?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Costly &nbsp;<sup><code>NEW</code></sup></h3>
-      <p>Cross-platform <b>personal-finance app</b> — dashboard, transaction history, analytics and secure sign-in. Built with Flutter + Firebase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Learning Platform</h3>
-      <p>Comprehensive <b>e-learning platform</b> with a Spring Boot backend, a Next.js frontend, an AI-powered study assistant and real-time messaging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-17171C?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-FF7759?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 03 · Stack
+## 02 · Stack
 
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -151,7 +89,7 @@ const sakitha = {
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 **AI / ML** &nbsp;
-![Prophet](https://img.shields.io/badge/Facebook_Prophet-FF7759?style=flat-square)
+![Prophet](https://img.shields.io/badge/Facebook_Prophet-39D353?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-5046E5?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -175,34 +113,34 @@ const sakitha = {
 
 ---
 
-## 04 · GitHub activity
+## 03 · GitHub activity
 
 <!-- Stats + top languages — light and dark variants swap automatically -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=FF7759&text_color=C9D1D9&cache_seconds=21600" />
-  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FF7759&icon_color=17171C&text_color=616161&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=39D353&icon_color=39D353&text_color=C9D1D9&cache_seconds=21600" />
+  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=39D353&icon_color=17171C&text_color=616161&cache_seconds=21600" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=C9D1D9&cache_seconds=21600" />
-  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FF7759&text_color=616161&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=39D353&text_color=C9D1D9&cache_seconds=21600" />
+  <img height="165em" src="https://github-readme-stats-seven-psi-50.vercel.app/api/top-langs/?username=SakithaSamarathunga33&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=39D353&text_color=616161&cache_seconds=21600" />
 </picture>
 
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=FF7759&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
-  <img src="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=FF7759&fire=FF7759&stroke=FF7759&currStreakLabel=17171C&sideLabels=201E1D&dates=616161&currStreakNum=201E1D&sideNums=201E1D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=39D353&fire=39D353&stroke=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+  <img src="https://streak-stats.demolab.com/?user=SakithaSamarathunga33&hide_border=true&background=00000000&ring=39D353&fire=39D353&stroke=39D353&currStreakLabel=17171C&sideLabels=201E1D&dates=616161&currStreakNum=201E1D&sideNums=201E1D" />
 </picture>
 
 <!-- Contribution graph -->
-<img width="98%" alt="Contribution graph" src="https://ghchart.rshah.org/ff7a59/SakithaSamarathunga33" />
+<img width="98%" alt="Contribution graph" src="https://ghchart.rshah.org/39d353/SakithaSamarathunga33" />
 
 ---
 
-## 05 · Contact
+## 04 · Contact
 
 **Open to collaborating on interesting projects — especially those combining full-stack development with AI/ML.**
 
-[![Email](https://img.shields.io/badge/Send_an_Email-FF7759?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-39D353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
 
