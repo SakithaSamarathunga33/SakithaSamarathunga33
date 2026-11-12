@@ -1,0 +1,50 @@
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/contribution-graph.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render black & green contribution graph
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const q = `query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { weeks { contributionDays { date contributionCount contributionLevel weekday } } } } } }`;
+            const res = await github.graphql(q, { login: context.repo.owner });
+            const cal = res.user.contributionsCollection.contributionCalendar;
+            const colors = {NONE:'#161b22',FIRST_QUARTILE:'#0e4429',SECOND_QUARTILE:'#006d32',THIRD_QUARTILE:'#26a641',FOURTH_QUARTILE:'#39d353'};
+            const cell = 11, gap = 3, step = cell + gap, left = 36, top = 26, pad = 14;
+            const W = left + cal.weeks.length * step + pad - gap, H = top + 7 * step + pad - gap;
+            const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+            let s = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">`;
+            s += `<rect width="${W}" height="${H}" rx="8" fill="#0d1117"/>`;
+            let prevM = -1, lastLabel = -9;
+            cal.weeks.forEach((w, i) => {
+              const m = new Date(w.contributionDays[0].date + 'T00:00:00Z').getUTCMonth();
+              if (m !== prevM) { if (i - lastLabel >= 3 && i < cal.weeks.length - 2) { s += `<text x="${left + i * step}" y="${top - 8}">${M[m]}</text>`; lastLabel = i; } prevM = m; }
+              for (const d of w.contributionDays) s += `<rect x="${left + i * step}" y="${top + d.weekday * step}" width="${cell}" height="${cell}" rx="2" fill="${colors[d.contributionLevel]}"><title>${d.contributionCount} on ${d.date}</title></rect>`;
+            });
+            [['Mon',1],['Wed',3],['Fri',5]].forEach(([t, d]) => s += `<text x="${pad - 4}" y="${top + d * step + cell - 2}">${t}</text>`);
+            s += `</svg>`;
+
+            require('fs').mkdirSync('assets', { recursive: true });
+            require('fs').writeFileSync('assets/contribution-graph.svg', s);
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet || (git commit -m "Update contribution graph" && git push)
