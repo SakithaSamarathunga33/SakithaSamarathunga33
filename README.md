@@ -21,7 +21,7 @@ I also own the DevOps side: CI/CD pipelines, Docker, and self-hosted Linux serve
 
 My goal is to create innovative software products that solve real-world challenges and deliver meaningful user experiences. I learn fast, ship often, and care about the details. Portfolio: https://sakitha.tech
 
-[![Email](https://img.shields.io/badge/Email%20me-39D353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20me-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-17171C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakithaSamarathunga33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakithasamarathunga/)
 [![Portfolio](https://img.shields.io/badge/sakitha.tech-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
@@ -33,7 +33,7 @@ My goal is to create innovative software products that solve real-world challeng
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/SakithaSamarathunga33?label=Followers&style=flat-square&color=17171C)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/SakithaSamarathunga33?label=Stars&style=flat-square&color=39D353)
+![Stars](https://img.shields.io/github/stars/SakithaSamarathunga33?label=Stars&style=flat-square&color=238636)
 
 ---
 
@@ -63,7 +63,7 @@ const sakitha = {
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-17171C?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
@@ -72,34 +72,34 @@ const sakitha = {
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-17171C?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-17171C?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-17171C?style=flat-square&logo=radixui&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-17171C?style=flat-square&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-17171C?style=flat-square&logo=greensock&logoColor=88CE02)
 ![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Desktop** &nbsp;
-![Tauri 2](https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=black)
+![Tauri 2](https://img.shields.io/badge/Tauri_2-17171C?style=flat-square&logo=tauri&logoColor=24C8DB)
 ![Rust](https://img.shields.io/badge/Rust-17171C?style=flat-square&logo=rust&logoColor=white)
 ![xterm.js](https://img.shields.io/badge/xterm.js-17171C?style=flat-square)
 
 **Backend** &nbsp;
-![Go chi](https://img.shields.io/badge/Go_chi-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go chi](https://img.shields.io/badge/Go_chi-007D9C?style=flat-square&logo=go&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-17171C?style=flat-square&logo=socketdotio&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-17171C?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-17171C?style=flat-square&logo=spring-boot&logoColor=6DB33F)
 ![Flask](https://img.shields.io/badge/Flask-17171C?style=flat-square&logo=flask&logoColor=white)
 
 **Data & Storage** &nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-17171C?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
@@ -108,14 +108,14 @@ const sakitha = {
 **AI / ML** &nbsp;
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-17171C?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![faster-whisper](https://img.shields.io/badge/faster--whisper-39D353?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-39D353?style=flat-square)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-238636?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-238636?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Facebook Prophet](https://img.shields.io/badge/Facebook_Prophet-39D353?style=flat-square)
+![Facebook Prophet](https://img.shields.io/badge/Facebook_Prophet-238636?style=flat-square)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-5046E5?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4DABCF)
 
 **DevOps & Self-Hosting** &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -130,8 +130,8 @@ const sakitha = {
 ![Vercel](https://img.shields.io/badge/Vercel-17171C?style=flat-square&logo=vercel&logoColor=white)
 
 **Testing & Tools** &nbsp;
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-17171C?style=flat-square&logo=vitest&logoColor=6E9F18)
+![Playwright](https://img.shields.io/badge/Playwright-238636?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-17171C?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -166,7 +166,7 @@ const sakitha = {
 
 **Open to collaborating on interesting projects — especially those combining full-stack development with AI/ML.**
 
-[![Email](https://img.shields.io/badge/Send_an_Email-39D353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakitha0303@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-17171C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakitha-samarathunga-b064a1279/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-17171C?style=for-the-badge&logo=vercel&logoColor=white)](https://sakitha.tech)
 
