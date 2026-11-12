@@ -132,7 +132,7 @@ const sakitha = {
 </picture>
 
 <!-- Contribution graph -->
-<img width="98%" alt="Contribution graph" src="https://ghchart.rshah.org/39d353/SakithaSamarathunga33" />
+<img width="98%" alt="Contribution graph" src="./assets/contribution-graph.svg" />
 
 ---
 
